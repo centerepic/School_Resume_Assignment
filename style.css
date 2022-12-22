@@ -12,11 +12,15 @@ img {
     padding: 10%;
 }
 h1{
+    padding-left: 5%;
+    padding-right: 5%;
     padding-top: 10%;
-    text-align: center;
+    text-align: left;
     color: aliceblue;
 }
 h2{
+    padding-left: 5%;
+    padding-right: 5%;
     padding-top: 5%;
     color: rgb(182, 185, 187);
 }
